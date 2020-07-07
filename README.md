@@ -4,7 +4,7 @@
 
 Talk to control tech!
 
-Talk2Control.tech is a voice activated keyboard input web application. It allows the user to navigate a slideshow or animation with just their voice, allowing for slides to sync perfectly with them as they speak.
+Talk2Control is a voice activated keyboard input web application. It allows the user to navigate a slideshow or animation with just their voice, allowing for slides to sync perfectly with them as they speak.
 
 > Note: This is an updated fork from the original repository, which can be found [here](https://github.com/WilliamLQin/talk2control).
 
@@ -16,7 +16,7 @@ Talk2Control.tech is a voice activated keyboard input web application. It allows
 
 This project is being revamped in terms of UI and functionality to provide a more fun way of engaging with the application. The original project state can be found in the [original repository](https://github.com/WilliamLQin/talk2control).
 
-Talk2Control.tech currently requires specific conditions to function properly.
+Talk2Control currently requires specific conditions to function properly.
 
 ## How it works
 
