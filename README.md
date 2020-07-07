@@ -8,9 +8,11 @@ Talk2Control is a voice activated keyboard input web application. It allows the 
 
 > Note: This is an updated fork from the original repository, which can be found [here](https://github.com/WilliamLQin/talk2control).
 
-## Demo Link
+## Demo
 
-![image]()
+### [Project Story / Devpost Link](https://devpost.com/software/talk2control-9vzc1s)
+
+![Demo](./demo.gif)
 
 ## Current State of Project
 
