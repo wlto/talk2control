@@ -36,7 +36,7 @@ Please note, this project uses OSAScript. Hence, it currently only works on macO
 ## Getting Started
 
 This project uses Flask to run the Python backend code. 
-You'll need Python installed on your computer. Head to ![Python](https://www.python.org/downloads/) to download it if you don't have it. 
+You'll need Python installed on your computer. Head to [Python](https://www.python.org/downloads/) to download it if you don't have it. 
 
 Clone the project and navigate to the directory in the terminal. 
 
